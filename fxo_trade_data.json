@@ -1,0 +1,1 @@
+{"TradeType":"FXOption", "ReqRisks": ["pv", "theta", "fxdelta_eurusd", "fxgamma_eurusd", "fxvega_eurusd"], "Strike":1.05, "Expiry":"2017-12-12", "Notional": 1000000, "OptionType":"c", "PricingCCY":"usd", "CcyPair": "eurusd"}

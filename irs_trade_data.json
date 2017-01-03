@@ -1,0 +1,1 @@
+{"TradeType":"IRS", "ReqRisks": ["pv", "ycdelta_usd3m", "ycgamma_usd3m"], "Strike":0.0131619, "StartDate":"2016-09-02", "EndDate":"2021-09-02", "Margin": 0.0, "Leverage": 1.0}
