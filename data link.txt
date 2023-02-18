@@ -1,0 +1,80 @@
+
+I’ve spent the past 1.5 years doing a lot of research on the Energy Sector.
+
+I have compiled a list of database sources for global information about energy so you can save time.
+
+Here are the top free databases to have access to while working
+
+1. Global Coal Plants -
+https://lnkd.in/dapUcTcd
+Global Coal Plant Tracker - Global Energy Monitor
+
+2. Global Gas Plants -
+https://lnkd.in/dg3RyJce
+Global Gas Plant Tracker - Global Energy Monitor
+
+3. Global Gas Pipelines and terminals -
+https://lnkd.in/dRMesGBD
+Global Gas Infrastructure Tracker - Global Energy Monitor
+
+4. Global Oil Refineries -
+https://lnkd.in/dzGJXDJE
+List of Crude_Oil_Refineries Resources - GEO (globalenergyobservatory.org)
+
+5. Global Oil Pipelines and terminals -
+https://lnkd.in/dxhh-ZKH
+Global Oil Infrastructure Tracker - Global Energy Monitor
+
+6. Global Utility-Scale Solar Plants -
+https://lnkd.in/dbR7ZpYU
+Global Solar Power Tracker - Global Energy Monitor
+
+7. Global Solar Irradiation and Plant load factor -
+https://lnkd.in/dKyxeCtQ
+Global Solar Atlas
+
+8. Global Utility-scale Wind Farms -
+https://lnkd.in/d7Vj4A_d
+
+9. Global Wind Speed and plant load factor -
+https://lnkd.in/dcZzK8Km
+Global Wind Power Tracker - Global Energy Monitor
+
+10. Global Geothermal Facilities -
+https://lnkd.in/d8V5MGis
+Global Geothermal Power Tracker - Global Energy Monitor
+
+11. Global Nuclear Power Plants -
+https://lnkd.in/dJRY6xzq
+List of Nuclear PowerPlants - GEO (globalenergyobservatory.org)
+
+12. Global Hydroelectric Power Plants -
+https://lnkd.in/djdjaXhw
+List of Hydro PowerPlants - GEO (globalenergyobservatory.org)
+
+13. Global Hydrogen Database –
+https://lnkd.in/dz-ivgkj
+Hydrogen Projects Database - Data product - IEA
+
+14. Clean Energy Demonstrator Project Database -
+https://lnkd.in/dE2rEgkY?
+Clean Energy Demonstration Projects Database – Data Tools - IEA
+
+15. Monthly Electricity Generation by country -
+https://lnkd.in/de3G-Web
+Monthly Electricity Statistics – Data Tools - IEA
+
+16. Real-Time Electricity Tracker -
+https://lnkd.in/duyVv38V
+Real-Time Electricity Tracker – Data Tools - IEA
+
+17. Global Electricity Grid -
+https://gridfinder.org/
+
+18. Renewable Energy share in electricity production -
+https://lnkd.in/dsF8xkW2
+Renewable Energy - Our World in Data
+
+https://ourworldindata.org/co2-emissions
+
+https://climatetrace.org/
